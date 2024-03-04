@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project 3.iml" filepath="$PROJECT_DIR$/.idea/Project 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Data_Science_Projects/Project_Templates/.idea/Project_Templates.iml" filepath="$PROJECT_DIR$/../../Data_Science_Projects/Project_Templates/.idea/Project_Templates.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/main_notebook_template+EDA/dsProject/.idea/dsProject.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/main_notebook_template+EDA/dsProject/.idea/dsProject.iml" />
+    </modules>
+  </component>
+</project>
